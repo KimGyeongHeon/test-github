@@ -1,5 +1,9 @@
 public class Calculator
 {
+  public int login()
+  {
+    return true;
+  }
   public int sum(int a, int b)
   {
     return a+b;
